@@ -1,0 +1,10 @@
+
+azure_openai:
+  azure_api_key: "CEfDCUfAm63lOzNpGBcWoCDvglR8WTYsm4r7NF9PdvF1UonH4txJJQQJ99AKAC5RqLJXJ3w3AAABACOGKz1D"
+  azure_api_endpoint: "https://cs23m-m3ltjt0n-westeurope.openai.azure.com"
+  embedding:
+    azure_deployment_emb: "text-embedding-ada-002"
+    azure_api_version_emb: "2023-05-15"
+  llm:
+    azure_deployment_llm: "gpt-4o"
+    azure_api_version_llm: "2024-08-01-preview"

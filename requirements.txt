@@ -1,0 +1,31 @@
+langchain
+langchain-openai
+langchain-community
+langchain-core
+langchain-chroma
+sentence-transformers
+langchain-huggingface
+chroma
+pypdf
+PyPDF2
+accelerate
+docx2txt
+huggingface-hub
+langchain-experimental
+openai
+openpyxl
+pandasql
+pydantic
+pyodbc
+safetensors
+sentence-transformers
+streamlit
+transformers
+nltk
+unstructured
+tokenizers
+tqdm
+rank_bm25 # hybrid search
+BCEmbedding # dlm reranking
+FlagEmbedding # dlm reranking
+bert-score    # evaluation
